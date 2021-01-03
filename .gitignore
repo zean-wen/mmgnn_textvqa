@@ -8,3 +8,5 @@ pythia/modules/sparse_graph_model.py
 pythia/modules/sgm_layers.py
 jupyters
 .circleci
+data
+original_sample
